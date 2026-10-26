@@ -58,6 +58,7 @@ Neural text-to-speech engines for narration, voice cloning, and multi-speaker sy
 
 ## Video Generation & Talking Head
 
+- [Ideoy](https://ideoy.ai) - Freemium AI meme & image-to-video generator: turn images/memes into short viral videos.
 Models for generating talking-head video, lip-synced avatars, and full scene video synthesis.
 
 | Tool | Description | Stars |
